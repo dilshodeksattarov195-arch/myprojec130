@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configerocess",
+        "uuid": 771030,
+        "checksum": "md6ulc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
